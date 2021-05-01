@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningBitArray", "LearningBitArray\LearningBitArray.csproj", "{65D1A778-87F6-43A0-84DF-9AF0FEF81931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningTuple", "LearningTuple\LearningTuple.csproj", "{EE434DBF-A80E-4020-A343-36313F3278B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D1A778-87F6-43A0-84DF-9AF0FEF81931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D1A778-87F6-43A0-84DF-9AF0FEF81931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D1A778-87F6-43A0-84DF-9AF0FEF81931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D1A778-87F6-43A0-84DF-9AF0FEF81931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE434DBF-A80E-4020-A343-36313F3278B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE434DBF-A80E-4020-A343-36313F3278B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE434DBF-A80E-4020-A343-36313F3278B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE434DBF-A80E-4020-A343-36313F3278B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5243BF8C-535A-4BEF-BDB3-837050A3F6A7}
+	EndGlobalSection
+EndGlobal
